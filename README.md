@@ -1,6 +1,8 @@
 # Important information
 [Syllabus](https://github.com/synac1/CMP167Spring2019/blob/master/CMP167_Core_Syllabus.pdf) 
 
+- [In Class Exercises Feb - 7 - 2019 ](https://goo.gl/forms/PHiLmk2pKGXS4eGi1)
+
 ## Participation and Challenge activities - Complete everything by February 11
 
 - [Programming (general)](https://learn.zybooks.com/zybook/CUNYCMP167Spring2019/chapter/1/section/1)
