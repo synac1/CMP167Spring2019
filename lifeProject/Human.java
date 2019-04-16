@@ -15,7 +15,7 @@ public class Human {
 	
 	public void eat() {
 		if(food>0)
-			hunger--;
+			hunger -= 1.0; 
 		else
 			System.out.println("No enough please buy food");
 	}
